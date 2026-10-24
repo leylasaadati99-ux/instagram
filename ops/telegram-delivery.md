@@ -1,7 +1,7 @@
 # تحویل تلگرام
 
 ## وضعیت
-در انتظار bot token و chat_id یا username مقصد.
+گزارش اولیه در ۲۴ اکتبر ۲۰۲۶ از طریق Telegram Web به Saved Messages ارسال شد. ارسال با bot token هنوز فعال نشده و برای این مرحله لازم نبود.
 
 ## آمادهٔ ارسال
 `research/2026-10-24-personal-branding-opportunities-fa.md`
