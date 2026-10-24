@@ -17,9 +17,10 @@
 ## وضعیت دسترسی‌ها
 
 - رپو هدف: https://github.com/leylasaadati99-ux/instagram
-- ارسال تلگرام: در انتظار bot token و chat_id
-- بررسی اینستاگرام: فقط منابع عمومی وب
-- Git/Chrome در محیط فعلی متصل نیستند؛ فایل‌ها برای commit آماده‌اند.
+- Telegram Web: متصل؛ گزارش تحقیق در Saved Messages ارسال شد.
+- Instagram: نشست لاگین‌شده در Chrome در دسترس است؛ تحقیق اولیه همچنان با منابع عمومی ثبت شده.
+- GitHub: فایل‌ها از طریق رابط وب commit شده‌اند؛ GitHub Connector این محیط همچنان read-only است.
+- Git CLI محلی نصب نیست؛ برای ادامه از اتصال مرورگر استفاده می‌کنیم.
 
 ## نحوهٔ کار برای مدل‌های بعدی
 ترتیب canonical خواندن: `AGENTS.md` ← `README.md` ← `docs/brand-brief.md` ← `docs/operating-rules.md` ← آخرین `research/` ← `CHANGELOG.md`. از تکرار تحقیق‌های موجود خودداری کن و هر تصمیم جدید را در `docs/decisions/` ثبت کن.
